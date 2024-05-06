@@ -114,9 +114,13 @@ sem_set_id
 	
 
 ## OUTPUT:
+~~~
 $ ./sem.o
+~~~
 ![5 ONE](https://github.com/23006111/Linux-IPC-Semaphores/assets/145981696/8f2f39ca-60b7-4b84-a5e7-aae5f3614741)
+~~~
 $ ipcs
+~~~
 ![5 TWO](https://github.com/23006111/Linux-IPC-Semaphores/assets/145981696/bdb3ae61-088c-4e32-9c61-b47979032701)
 
 
